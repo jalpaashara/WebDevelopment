@@ -1,5 +1,6 @@
 # HTML Layout and CSS Responsive Website
 
+***To run this website download the folder and run home.html OR visit http://webpage.pace.edu/ja57884n/CS612_Assignment/home.html***
 <p> This project is part of an assignment for a coursework at Pace University. Following are the instructions: </p>
 <p> Your Static Website should contain: </p>
     <ul>
